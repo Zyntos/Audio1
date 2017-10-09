@@ -4,7 +4,7 @@
         <title>Mein Theremin</title>
         <style>
         div{
-        height: 1000px;
+        height: 500px;
         width: 100%
             }
 
